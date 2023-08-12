@@ -8,7 +8,7 @@ A list of Soapbox instances and (eventually) tools for detecting them.
 
 Blocklist of Soapbox instances in Mastodon import format.
 
-### [`safelist.csv`](safelist.csv)
+### [`removed.csv`](removed.csv)
 
 List of instances that have been removed from the blocklist, with reasons for removal. Not importable into Mastodon.
 
