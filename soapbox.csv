@@ -6,6 +6,7 @@
 2snc.eu,suspend,false,false,Soapbox detected on rb.2snc.eu at 2023-08-05 by soapblock.sh,false
 5evo.fan,suspend,false,false,Soapbox detected on 5evo.fan at 2023-08-11 by soapblock.sh,false
 a3size.com,suspend,false,false,Soapbox detected on social.a3size.com at 2023-08-12 by soapblock.sh,false
+abhishek-dhakal.com.np,suspend,false,false,Soapbox detected on soap.abhishek-dhakal.com.np at 2024-05-07 by soapblock.sh,false
 abootible.com,suspend,false,false,Soapbox detected on abootible.com at 2024-03-28 by soapblock.sh,false
 agates.io,suspend,false,false,Soapbox detected on activitypub.agates.io at 2023-08-05 by soapblock.sh,false
 agdersam.no,suspend,false,false,Soapbox detected on sosial.agdersam.no at 2023-08-05 by soapblock.sh,false
@@ -76,8 +77,10 @@ cr4.pw,suspend,false,false,Soapbox detected on social.cr4.pw at 2023-08-05 by so
 crashed.org,suspend,false,false,Soapbox detected on soc.crashed.org at 2023-08-05 by soapblock.sh,false
 craveiro.pt,suspend,false,false,Soapbox detected on rants.craveiro.pt at 2023-08-12 by soapblock.sh,false
 cubes.link,suspend,false,false,Soapbox detected on cubes.link at 2023-08-05 by soapblock.sh,false
+cvrkut.com,suspend,false,false,Soapbox detected on cvrkut.com at 2024-05-07 by soapblock.sh,false
 cyber.gent,suspend,false,false,Soapbox detected on pleroma.cyber.gent at 2023-08-15 by soapblock.sh,false
 dadalo.pl,suspend,false,false,Soapbox detected on signal.dadalo.pl at 2024-02-03 by soapblock.sh,false
+dansonline.space,suspend,false,false,Soapbox detected on dansonline.space at 2024-05-07 by soapblock.sh,false
 dansu.org,suspend,false,false,Soapbox detected on dansu.org at 2023-08-05 by soapblock.sh,false
 dark-alexandr.net,suspend,false,false,Soapbox detected on pleroma.dark-alexandr.net at 2023-08-12 by soapblock.sh,false
 dasaku.net,suspend,false,false,Soapbox detected on key.dasaku.net at 2023-08-05 by soapblock.sh,false
@@ -221,6 +224,7 @@ masto.dontexist.org,suspend,false,false,Soapbox detected on masto.dontexist.org 
 mastodon.tech,suspend,false,false,Soapbox detected on mastodon.tech at 2023-08-12 by soapblock.sh,false
 mattrnet.org,suspend,false,false,Soapbox detected on social.mattrnet.org at 2023-08-12 by soapblock.sh,false
 mayson.us,suspend,false,false,Soapbox detected on mayson.us at 2023-09-28 by soapblock.sh,false
+mcrail.top,suspend,false,false,Soapbox detected on bbs.mcrail.top at 2024-05-07 by soapblock.sh,false
 meneeraart.nl,suspend,false,false,Soapbox detected on pleroma.meneeraart.nl at 2023-08-12 by soapblock.sh,false
 miantiao.me,suspend,false,false,Soapbox detected on miantiao.me at 2024-02-03 by soapblock.sh,false
 microblog.club,suspend,false,false,Soapbox detected on microblog.club at 2023-08-05 by soapblock.sh,false
@@ -305,6 +309,7 @@ rebased.social,suspend,false,false,Soapbox detected on rebased.social at 2023-08
 rebelbase.site,suspend,false,false,Soapbox detected on rebelbase.site at 2023-08-12 by soapblock.sh,false
 redplanetlabs.com,suspend,false,false,Soapbox detected on mastodon.redplanetlabs.com at 2023-08-15 by soapblock.sh,false
 redsnake.io,suspend,false,false,Soapbox detected on redsnake.io at 2023-08-05 by soapblock.sh,false
+reinhart1010.id,suspend,false,false,Soapbox detected on logs.reinhart1010.id at 2024-05-07 by soapblock.sh,false
 replicant.pl,suspend,false,false,Soapbox detected on replicant.pl at 2023-08-05 by soapblock.sh,false
 retroedge.tech,suspend,false,false,Soapbox detected on social.retroedge.tech at 2023-08-05 by soapblock.sh,false
 returtle.com,suspend,false,false,Soapbox detected on returtle.com at 2023-08-05 by soapblock.sh,false
@@ -368,6 +373,7 @@ teleyal.blog,suspend,false,false,Soapbox detected on pl.teleyal.blog at 2024-02-
 tenhou.in,suspend,false,false,Soapbox detected on tenhou.in at 2023-08-12 by soapblock.sh,false
 tevps.net,suspend,false,false,Soapbox detected on pleroma.tevps.net at 2023-08-12 by soapblock.sh,false
 thebag.social,suspend,false,false,Soapbox detected on thebag.social at 2023-08-05 by soapblock.sh,false
+theblab.org,suspend,false,false,Soapbox detected on theblab.org at 2024-05-07 by soapblock.sh,false
 theepicblock.nl,suspend,false,false,Soapbox detected on fedi.theepicblock.nl at 2023-08-05 by soapblock.sh,false
 thefire.work,suspend,false,false,Soapbox detected on thefire.work at 2023-08-12 by soapblock.sh,false
 thefloatinglab.world,suspend,false,false,Soapbox detected on fediverse.thefloatinglab.world at 2023-08-11 by soapblock.sh,false
@@ -393,6 +399,7 @@ undeadnetwork.de,suspend,false,false,Soapbox detected on anti.undeadnetwork.de a
 unigiri.net,suspend,false,false,Soapbox detected on pleroma.unigiri.net at 2023-08-12 by soapblock.sh,false
 updog.no,suspend,false,false,Soapbox detected on updog.no at 2023-08-05 by soapblock.sh,false
 usualsuspects.lol,suspend,false,false,Soapbox detected on the.usualsuspects.lol at 2023-08-05 by soapblock.sh,false
+utrera.social,suspend,false,false,Soapbox detected on utrera.social at 2024-05-07 by soapblock.sh,false
 vikalp.social,suspend,false,false,Soapbox detected on vikalp.social at 2023-08-05 by soapblock.sh,false
 vinaymanro.com,suspend,false,false,Soapbox detected on www.vinaymanro.com at 2023-08-05 by soapblock.sh,false
 vitrubio.net,suspend,false,false,Soapbox detected on social.vitrubio.net at 2024-02-03 by soapblock.sh,false
